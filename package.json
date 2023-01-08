@@ -1,14 +1,9 @@
 {
-  "name": "jumsa",
+  "name": "template",
   "version": "0.1.0",
-  "description": "Jumsa app",
+  "description": "template app",
   "private": true,
-  "keywords": [
-    "jumsa",
-    "unijos",
-    "jos university teaching hospital",
-    "juth"
-  ],
+  "keywords": [],
   "author": "drmo",
   "scripts": {
     "dev": "next dev",
